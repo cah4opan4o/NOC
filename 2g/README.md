@@ -1,8 +1,8 @@
 # Запуск компиляции проекта
-```bash
+```!/bin/bash
 bash Compile_2G.sh
 ```
 # Запуск работы проекта
-```bash
+```!/bin/bash
 bash launch.sh
 ```
