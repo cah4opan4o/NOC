@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Путь для установки
-install_path="/home/kasperekd/2G"
+# вместо cah4opan4o - вставьте имя своего пользователя под которым вы сейчас находитесь
+install_path="/home/cah4opan4o/2G"
 
 update_system() {
     echo "Обновление списка пакетов и апгрейд системы..."
